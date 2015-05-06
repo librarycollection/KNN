@@ -54,6 +54,7 @@ The classified data looks like this:
 While the the unclassified data looks like this:  
 
 |X | Y |
+|-----|-----|
 |1|2|
 |2|6|
 |3|3|
@@ -113,6 +114,7 @@ for item in test_coordinates:
 KNN outputs the following classifications for the data:  
 
 |X | Y | Classification |
+|-----|-----|-----------|
 |1|2| b|
 |2|6| b|
 |3|3|a|
